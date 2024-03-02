@@ -38,7 +38,7 @@ I'm a **Senior Fullstack Developer** with a flair for crafting elegant web solut
 - VSCode, npm, Yarn
 - Jira, PNPM
 
-## 🌐 Let's Collaborate!
+## 🤝 Let's Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/vaibhav%20vinayak-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-vinayak/)
 [![GitHub](https://img.shields.io/badge/vaibhav%20vinayak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-vinayak)
