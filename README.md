@@ -39,11 +39,11 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
 ![Planetscale](https://img.shields.io/badge/-Planetscale-2B3137?style=for-the-badge&logo=planetscale)
 ![NeonDB](https://img.shields.io/badge/-NeonDB-03A9F4?style=for-the-badge&logo=neon)
+![Cloudflare D1](https://img.shields.io/badge/-Cloudflare%20D1-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Serverless
-![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Hono.js](https://img.shields.io/badge/-Hono.js-00B0FF?style=for-the-badge)
-![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud)
 ![Firebase Functions](https://img.shields.io/badge/-Firebase%20Functions-039BE5?style=for-the-badge&logo=firebase)
 
 ### Testing
@@ -58,16 +58,16 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 
 ### Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 🤝 Let's Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-vinayak/)
 [![GitHub](https://img.shields.io/badge/Collab-black?style=for-the-badge&logo=github)](https://github.com/vaibhav-vinayak)
-[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/vaibhav_vinayak)
+[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav_vinayak)
 [![Website](https://img.shields.io/badge/Visit-darkgreen?style=for-the-badge&logo=Microsoft-edge)](https://vaibhavvinayak.com)
 
 If you're ready to build something amazing, let's connect and bring your ideas to life! 🚀
