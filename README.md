@@ -22,8 +22,8 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
 ![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next-dot-js)
-![Vite](https://img.shields.io/badge/-Vite-green?style=for-the-badge&logo=vite)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
@@ -31,14 +31,14 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-blue?style=for-the-badge&logo=prisma)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql)
-![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?style=for-the-badge&logo=apollo)
+![Apollo Server](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
 ![Planetscale](https://img.shields.io/badge/-Planetscale-2B3137?style=for-the-badge&logo=planetscale)
-![NeonDB](https://img.shields.io/badge/-NeonDB-03A9F4?style=for-the-badge&logo=neon)
+![NeonDB](https://img.shields.io/badge/neondb-00E599.svg?style=for-the-badge&logo=RxDB&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/-Cloudflare%20D1-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Serverless
@@ -51,7 +51,7 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 
 ### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
