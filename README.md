@@ -21,9 +21,16 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo&logoColor=white)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
@@ -36,7 +43,7 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
 ![Planetscale](https://img.shields.io/badge/-Planetscale-2B3137?style=for-the-badge&logo=planetscale)
 ![NeonDB](https://img.shields.io/badge/neondb-00E599.svg?style=for-the-badge&logo=RxDB&logoColor=white)
@@ -44,7 +51,7 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 
 ### Serverless
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono.js](https://img.shields.io/badge/-Hono.js-00B0FF?style=for-the-badge)
+![Hono.js](https://img.shields.io/badge/-Hono-red?style=for-the-badge&logo=hono&logoColor=white)
 ![Firebase Functions](https://img.shields.io/badge/-Firebase%20Functions-039BE5?style=for-the-badge&logo=firebase)
 
 ### Testing
@@ -63,6 +70,12 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Payment Gateway Integrations
+![Stripe](https://img.shields.io/badge/-Stripe-purple?style=for-the-badge&logo=stripe&logoColor=white)
+![HDFC](https://img.shields.io/badge/-HDFC-blue?style=for-the-badge&logo=hdfcbank&logoColor=white)
+![PhonePe](https://img.shields.io/badge/-PhonePe-purple?style=for-the-badge&logo=phonepe&logoColor=white)
+![Paytm](https://img.shields.io/badge/-Paytm-blue?style=for-the-badge&logo=paytm&logoColor=white)
 
 ## 🤝 Let's Collaborate!
 
