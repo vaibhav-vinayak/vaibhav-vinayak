@@ -29,6 +29,7 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs)
+![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=for-the-badge&logo=drizzle)
 ![Prisma](https://img.shields.io/badge/-Prisma-blue?style=for-the-badge&logo=prisma)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql)
 ![Apollo Server](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white)
