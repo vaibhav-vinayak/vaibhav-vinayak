@@ -81,7 +81,7 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-vinayak/)
 [![GitHub](https://img.shields.io/badge/Collab-black?style=for-the-badge&logo=github)](https://github.com/vaibhav-vinayak)
-[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav_vinayak)
+[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vaibhav_vinayak)
 [![Website](https://img.shields.io/badge/Visit-darkgreen?style=for-the-badge&logo=Microsoft-edge)](https://vaibhavvinayak.com)
 
 If you're ready to build something amazing, let's connect and bring your ideas to life! 🚀
