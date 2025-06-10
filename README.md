@@ -2,19 +2,16 @@
 
 ## About Me
 
-Welcome to my world of building extraordinary digital experiences! 🚀 As a seasoned full-stack developer, I specialize in transforming visions into seamless realities. My toolkit is packed with expertise in cutting-edge technologies:
+I'm a full stack developer with 8+ years of experience building scalable, high-performance web and mobile applications. My work spans across real estate, fintech, edtech, D2C, and more—delivering end-to-end solutions from architecture to production.
 
-- **ReactJS and NextJS:** I bring a deep understanding and mastery in crafting sophisticated front-end applications. Leveraging advanced techniques like server-side rendering, I ensure top-notch performance.
+My core strengths include:
 
-- **React Native:** Proficient in delivering lightning-fast, responsive, and user-friendly cross-platform mobile applications, I'm committed to creating exceptional mobile experiences.
+- **React, Next.js, React Native** – building dynamic, responsive UIs across web and mobile
+- **Node.js, NestJS, Hono.js** – creating robust, secure backend APIs (REST/GraphQL)
+- **Cloud & Serverless** – deploying production-ready apps using Cloudflare Workers, Firebase Functions, and Vercel
+- **Modern databases** – expertise in PostgreSQL, MongoDB, Planetscale, and distributed setups
 
-- **NodeJS:** As a specialist in building robust back-end APIs, I navigate effortlessly between REST and GraphQL, armed with a diverse set of third-party libraries and tools.
-
-Collaboration is at the heart of my approach. I thrive in interdisciplinary teams, partnering closely with designers, product managers, and fellow developers. Clear communication and alignment are my secret weapons to ensure the success of every project.
-
-With a keen problem-solving mindset, I don't just meet challenges; I turn them into opportunities for innovation. Continuous improvement is not just a motto but a way of life for me.
-
-If you're in search of a skilled and reliable developer to bring your ideas to life, let's collaborate and create something extraordinary together! 🌟
+I thrive in cross-functional teams, drive technical decisions, mentor engineers, and take ownership of delivery—from product planning to post-launch iterations.
 
 ## 💻 Tech Stack
 
@@ -77,6 +74,8 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 ![PhonePe](https://img.shields.io/badge/-PhonePe-purple?style=for-the-badge&logo=phonepe&logoColor=white)
 ![Paytm](https://img.shields.io/badge/-Paytm-blue?style=for-the-badge&logo=paytm&logoColor=white)
 
+---
+
 ## 🤝 Let's Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-vinayak/)
@@ -84,4 +83,4 @@ If you're in search of a skilled and reliable developer to bring your ideas to l
 [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vaibhav_vinayak)
 [![Website](https://img.shields.io/badge/Visit-darkgreen?style=for-the-badge&logo=Microsoft-edge)](https://vaibhavvinayak.com)
 
-If you're ready to build something amazing, let's connect and bring your ideas to life! 🚀
+Let’s build something impactful. 🚀
