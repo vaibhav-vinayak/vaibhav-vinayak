@@ -76,11 +76,40 @@ I thrive in cross-functional teams, drive technical decisions, mentor engineers,
 
 ---
 
+
+## 🏆 Key Projects
+
+- **Dream11 (React Native Login Infra):**  
+  Engineered login for 100M+ users, migrated native to React Native, cut support tickets by 40%.
+
+- **Aldar Stakeholder Platform:**  
+  Led migration and dual portal build, boosting performance by 80% for Abu Dhabi’s real estate entity.
+
+- **OpenBorder D2C Platform:**  
+  Built logistics automation backend, reduced merchant onboarding by 80%.
+
+- **AI Video Analysis Tool:**  
+  Fullstack browser-based video analysis using Next.js & Cloudflare Workers.
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech (CSE), First Division** – Technological Institute of Textiles & Sciences
+- **AI Associate – Salesforce** (Ethical AI, LLM APIs, Automation)
+- **Advanced React APIs – Epic Web** (Suspense, Server Components, Patterns)
+
+---
+
 ## 🤝 Let's Collaborate!
+
+Let’s build something impactful.  
+Open to remote, leadership, and global opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-vinayak/)
 [![GitHub](https://img.shields.io/badge/Collab-black?style=for-the-badge&logo=github)](https://github.com/vaibhav-vinayak)
 [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vaibhav_vinayak)
 [![Website](https://img.shields.io/badge/Visit-darkgreen?style=for-the-badge&logo=Microsoft-edge)](https://vaibhavvinayak.com)
 
-Let’s build something impactful. 🚀
+> _“Code is easy. Impact is hard. I focus on both.”_
+
