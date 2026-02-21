@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Vaibhav Vinayak</h1>
   <h3>Staff Full-Stack Engineer • Engineering Leader • Systems Architect</h3>
 
   <p align="center">
