@@ -122,14 +122,6 @@ I specialize in **"Extreme Scale"**—engineering systems that thrive under the 
 
 ---
 
-### 📊 SYSTEM METRICS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-vinayak&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-vinayak&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
-</p>
-
----
-
 ### 🤝 LET'S BUILD THE IMPOSSIBLE
 I am currently open to **Fractional CTO roles, Architectural Consulting**, and high-impact **Staff Engineering** opportunities.
 
