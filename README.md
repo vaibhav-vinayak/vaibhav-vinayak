@@ -1,69 +1,65 @@
 <div align="center">
-  <h3>Staff Full-Stack Engineer • Engineering Leader • Systems Architect</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=VAIBHAV%20VINAYAK&fontSize=70&animation=fadeIn&fontAlignY=35" />
+
+  <h3>System Architect • Engineering Leader • 100M+ Scale Specialist</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/vaibhav-vinayak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://vaibhavvinayak.com/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://x.com/vaibhav_vinayak"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/vaibhav-vinayak"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://vaibhavvinayak.com/"><img src="https://img.shields.io/badge/View_Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:jobs.vaibhavvinayak@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   </p>
 
-  <p align="center">
-    <b>"I bridge the gap between complex unit economics and robust unit testing."</b><br>
-    <i>Architecting for the next 100M users.</i>
-  </p>
+  <h4>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Architecting+Systems+for+the+Next+100M+Users;Scaling+Engineering+Orgs+by+600%25;Leading+Saudi+Vision+2030+Giga-Project+Tech;Mastering+AI-Native+Agentic+Workflows;Optimizing+FinTech+Super-Apps+for+Massive+Scale;Bridging+Unit+Economics+with+Unit+Testing" />
+  </h4>
 </div>
 
 ---
 
-### ⚡ THE EXECUTIVE SUMMARY
-I specialize in **"Extreme Scale"**—engineering systems that thrive under the pressure of 100M+ concurrent users. From scaling engineering orgs by **600%** to architecting sub-second auth for India's largest sports platforms, I build for performance, reliability, and global growth.
-
-- 🛠 **Current Mission:** Scaling the engineering culture at **Artefact**, leading 18+ developers toward an AI-native future.
-- 🎯 **Core Expertise:** High-Concurrency Distributed Systems, Edge Computing, and Agentic Workflows.
-- 📈 **The Pedigree:** 8+ years of high-stakes delivery across FinTech, GovTech, and Giga-projects (Saudi Vision 2030).
+### ⚡ THE EXECUTIVE METRICS
+| 🚀 Experience | 👥 Scale Managed | 🛠 Team Growth | 🤖 AI Strategy |
+| :--- | :--- | :--- | :--- |
+| **8+ Years** | **100M+ Active Users** | **6x Engineering Scale** | **LLM-Augmented DX** |
 
 ---
 
-### 🏛️ ARCHITECTURAL HALL OF FAME (IMPACT)
+### 🏆 THE ARCHITECTURAL BENTO BOX
+*High-impact deliverables for global stakeholders.*
 
-<table width="100%">
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏟️ Dream11</h4>
-      <p><b>Challenge:</b> 100M+ peak users; massive auth bottleneck.</p>
+    <td width="50%">
+      <b>🏟️ DREAM11: Sub-Second Auth at 100M+ Scale</b><br>
+      Optimized login infrastructure for India's largest fantasy sports app. 
       <ul>
-        <li>Achieved <b>sub-second auth latency</b> at peak IPL traffic.</li>
-        <li>Strategic Native-to-React Native migration with 0% feature regression.</li>
-        <li>40% reduction in support tickets via resilient infra.</li>
+        <li>Achieved sub-second latency during IPL peaks.</li>
+        <li>Strategic Native-to-React Native migration.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Artefact</h4>
-      <p><b>Challenge:</b> Hyper-growth leadership & GovTech delivery.</p>
+    <td width="50%">
+      <b>🏢 ARTEFACT: Engineering Org Scaling</b><br>
+      Scaled the team from 3 to 18+ developers with 0% velocity loss.
       <ul>
-        <li>Scaled engineering org from <b>3 to 18 developers</b>.</li>
-        <li>Implemented AI-native DX (Cursor/LLMs) reducing onboarding by 30%.</li>
-        <li>Direct stakeholder management for Saudi Giga-projects.</li>
+        <li>Standardized AI-native development (Cursor/LLMs).</li>
+        <li>Reduced onboarding friction by 30%.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>💳 TataNeu / FinTech</h4>
-      <p><b>Challenge:</b> Fragmented Super-App ecosystem.</p>
+    <td width="50%">
+      <b>💳 TATANEU: Super-App FinTech Architecture</b><br>
+      Led frontend squads for high-concurrency payment/investment flows.
       <ul>
-        <li>Led 13-dev squad for high-concurrency payment flows.</li>
-        <li>Launched modular UI systems boosting <b>mobile conversion by 10%</b>.</li>
-        <li>Optimized Core Web Vitals for massive transactional scale.</li>
+        <li>10% conversion boost via Core Web Vitals optimization.</li>
+        <li>Architected modular UI for massive transactional scale.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>🌴 Aldar / Qiddiya</h4>
-      <p><b>Challenge:</b> Real-time Big Data Visualization.</p>
+    <td width="50%">
+      <b>🇸🇦 QIDDIYA: Big Data & Giga-Projects</b><br>
+      Real-time analytics for Saudi Vision 2030 initiatives.
       <ul>
-        <li>Migrated legacy Angular to modern <b>Server-first React</b>.</li>
-        <li>80% performance jump across enterprise modules.</li>
-        <li>Real-time analytics integration with Google BigQuery.</li>
+        <li>Legacy Angular → Server-First React migration.</li>
+        <li>80% performance jump via modern SSR patterns.</li>
       </ul>
     </td>
   </tr>
@@ -71,65 +67,47 @@ I specialize in **"Extreme Scale"**—engineering systems that thrive under the 
 
 ---
 
-### 🧰 THE WEAPONRY
+### 🧰 TECHNICAL WEAPONRY
 
-#### 🏗️ Architecture & Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+#### **Infrastructure & Backend**
+`TypeScript` `Node.js` `Hono.js` `Nest.js` `Cloudflare Workers` `PostgreSQL` `NeonDB` `Drizzle` `Prisma`
+
+#### **Frontend & Mobile**
+`Next.js (App Router)` `React Native` `TailwindCSS` `Shadcn/UI` `TanStack Query` `Redux Toolkit`
+
+#### **AI & Intelligence**
+`Claude 3.5` `Gemini 1.5 Pro` `DeepSeek` `OpenAI` `Agentic Workflows` `Cursor Expert`
+
+---
+
+### 📊 THE COMMIT ENGINE
+*Proof of consistent shipping and high-output leadership.*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-vinayak&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=FF5733&currStreakLabel=0077B5" alt="Vaibhav's Contribution Streak" />
 </p>
 
-#### 🎨 Frontend Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-#### 💾 Data & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-#### 🤖 AI & Agentic Workflows
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-624946?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-60BEFF?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-5E5E5E?style=for-the-badge&logo=cursor&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-vinayak&bg_color=00000000&color=0077B5&line=0077B5&point=FF5733&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🧠 LEADERSHIP PHILOSOPHY
-> *"Code is a liability; features are a cost. Impact is the only true metric."*
+> **"Code is a liability; features are a cost. Impact is the only true metric."**
 
-* **DX as a Product:** I believe developer experience is the leading indicator of shipping velocity.
-* **Scale Without Chaos:** Implementing "Guardrails, not Gates" to allow teams to move fast without breaking the core.
-* **AI-Augmented Engineering:** Transitioning teams from "writing code" to "reviewing intent" using modern LLM workflows.
+* **Developer Experience (DX) as a Product:** High shipping velocity is a byproduct of great tooling and AI-augmentation.
+* **Scale Without Chaos:** Implementing "Guardrails, not Gates" to allow teams to move fast without breaking core systems.
+* **Modernization Strategy:** Specializing in migrating legacy systems to modern, server-first architectures without downtime.
 
 ---
 
 ### 🤝 LET'S BUILD THE IMPOSSIBLE
-I am currently open to **Fractional CTO roles, Architectural Consulting**, and high-impact **Staff Engineering** opportunities.
+Available for **Fractional CTO roles**, **Architectural Consulting**, and **High-Impact Leadership**.
 
-- 📧 **Direct:** [jobs.vaibhavvinayak@gmail.com](mailto:jobs.vaibhavvinayak@gmail.com)
-- 💬 **Ask me about:** Distributed systems, React Native internals, and the unit economics of SaaS.
-
-<br />
+* 📧 **Direct:** [jobs.vaibhavvinayak@gmail.com](mailto:jobs.vaibhavvinayak@gmail.com)
+* 💬 **Focus Areas:** Distributed systems, React Native internals, and the unit economics of SaaS.
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Code%20is%20easy.%20Impact%20is%20hard.%20I%20focus%20on%20both.&author=Vaibhav%20Vinayak&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Engineering%20is%20not%20about%20writing%20code;%20it's%20about%20solving%20business%20problems.&author=Vaibhav%20Vinayak&theme=radical" />
 </div>
