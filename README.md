@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/vaibhav-vinayak"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://vaibhavvinayak.com/"><img src="https://img.shields.io/badge/View_Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:jobs.vaibhavvinayak@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+    <a href="mailto:jobs.vaibhavvinayak@gmail.com"><img src="https://img.shields.io/badge/✉️_Say_Hello-00bbd3?style=for-the-badge&logoColor=white" /></a>
   </p>
 
   <h4>
